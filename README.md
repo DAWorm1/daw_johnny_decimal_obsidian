@@ -36,7 +36,7 @@ Obsidian Vault directory structure:
 - `Categories` must start with `XX` where `X` is a number.
 - - Note that categories do not have a dash
 - `Items` must start with `XX.XX` where `X` is a number. 
-- - `Items` can be both a directory as well as a Markdown file
+- - `Items` can be either a directory as well as a Markdown file
 - - Metadata for an `Item` which is a directory is stored in at the 0th index of the item. Example: `02.01.00.md` contains the metadata for `Item` `02.01 - Tips`
 
 **Example Index output**
@@ -53,9 +53,6 @@ Obsidian Vault directory structure:
 # 20 - 29 PERSONAL
 ### 23 Knowledge
 [[23.01 - Reddit]]
-
-# 30 - 39 MUSIC
-### 31 Career
 
 # 40 - 49 PROGRAMMING
 ### 42 Other projects
