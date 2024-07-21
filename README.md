@@ -77,3 +77,6 @@ Obsidian Vault directory structure:
 - Obsidian File Properties of the 'list' type are not supported
 - Metadata at the Area level is not supported
 - Multiple Systems are not supported
+
+**Future plans**
+- Any index items which have a 'Folder note' should have a link in the Index to the Folder note. This would increase usability of the Index by allowing it to be a launchpad to your Notes. It would also improve integration with plugins (i.e. IdreesInc/Waypoint) that utilize 'folder notes' to organize content.
